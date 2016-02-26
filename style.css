@@ -1,4 +1,5 @@
-body
+
+*
 {
     margin: 0;
     padding: 0;
@@ -9,9 +10,10 @@ body
     background-color: #eeeeee;
     width: 1440px;
     height: 800px;
-    margin: 0;
+    margin: -5px;
     padding: 0;
     border-bottom: 5px solid #030605;
+    border-radius: 8px;
 }
 
 .wrapper
